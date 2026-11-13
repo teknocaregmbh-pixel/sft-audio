@@ -1,0 +1,4 @@
+kokoro-onnx==0.6.1
+lameenc==1.9.0
+beautifulsoup4==4.15.0
+numpy
